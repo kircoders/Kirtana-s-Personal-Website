@@ -1,0 +1,126 @@
+#title {
+  background-color: #ADD8E6;
+}
+
+.titleimg {
+  width: 40%
+}
+
+h1 {
+  font-family: 'Prosto One', cursive;
+  font-size: 4.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  margin-left: 5px;
+  padding: 15px
+}
+
+h2 {
+  font-family: 'Bebas Neue', cursive;
+  margin-left: 15px;
+}
+
+h4 {
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Roboto Mono', monospace;
+  margin-left: 5px;
+  padding: 20px
+}
+
+h3 {
+  font-family: 'Bebas Neue', cursive;
+  color: #6082B6
+}
+
+h5 {
+  font-size: 2.1rem;
+}
+
+.container-fluid {
+  padding: 3% 5%
+}
+
+#aboutme {
+  padding: 110px
+}
+
+.feature-box {
+  text-align: justify;
+}
+
+.icon {
+  padding: 10px;
+  text-align: left;
+}
+
+#carousel {
+  text-align: center;
+  background-color: #ADD8E6;
+  color: dark-blue;
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: 'Roboto Mono', monospace;
+  margin-bottom: 50px;
+}
+
+.comslide {
+  padding: 150px;
+}
+
+.designfail {
+  padding: 75px;
+}
+
+#contacts {
+  text-align: center;
+  padding: 20px
+}
+
+.myimg {
+  width: 25%
+}
+
+.card {
+  border-radius: 10px
+}
+
+.card-first {
+  padding-right: 10px;
+}
+
+.card-second {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card-third {
+  padding-left: 10px;
+}
+
+.card-img-top {
+  width: 400px;
+  height: 300px;
+  padding-left: 85px;
+}
+
+.card-text {
+  text-align:
+}
+
+.darkblue {
+  width: 90px;
+  length: 90px;
+}
+
+.midblue {
+  width: 90px;
+  length: 90px;
+}
+
+.picofme {
+  width: 30%;
+}
+
+.titleimages {
+
+}
